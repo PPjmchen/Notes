@@ -144,9 +144,7 @@ git stash
 
 需要时将独立空间的代码再读出
 
-
-
-## 上传文件至github
+## 4. 关联github
 
 ### 配置github账号
 
@@ -159,6 +157,8 @@ git config --global user.email "542760094@qq.com"
 ```
 git remote add origin https://github.com/PPjmchen/torch_learning.git
 ```
+
+> 这里的origin相当于在本地给这个仓库一个别名，方便后续的pull和push操作
 
 ### 查看修改
 
@@ -186,4 +186,12 @@ git commit -m 'update_massage'
 ```
 git push origin master
 ```
+
+### 从github上拉取最新版本的代码
+
+```
+git pull origin master
+```
+
+
 
