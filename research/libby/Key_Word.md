@@ -28,7 +28,7 @@ python extract.py
 
 文件打开并复制所有内容，打开网站http://j2e.kpoda.com/，粘贴到面板并导出Excel2003文件.
 
-<img src="C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20210331111232718.png" alt="image-20210331111232718" style="zoom:67%;" />
+<img src="https://raw.githubusercontent.com/PPjmchen/Notes-Imgs/main/image-20210331113351994.png" alt="image-20210331113351994" style="zoom:67%;" />
 
 ​	**跳出收费窗口后不用理他，过一会就会弹出下载窗口！**
 
