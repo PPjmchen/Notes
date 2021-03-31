@@ -193,5 +193,9 @@ git push origin master
 git pull origin master
 ```
 
+### 从github上克隆指定分支的代码
 
+```bash
+git clone -b <branch_name> xxxx.git
+```
 
