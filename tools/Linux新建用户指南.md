@@ -46,7 +46,7 @@ rm -rf testuser  # 删除用户testuser所在目录
 
 ```
 #!/bin/sh
-#
+#a
 # This script should be run via curl:
 #   sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 # or via wget:
