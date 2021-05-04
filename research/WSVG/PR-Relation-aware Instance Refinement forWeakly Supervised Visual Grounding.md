@@ -4,13 +4,11 @@ CVPR2021
 
 
 
-- [ ] Language prior
+- [x] Language prior
 
-  
+- [x] Corse-to-fine matching process
 
-- [ ] Corse-to-fine matching process
-
-- [ ] Multi-task loss
+- [x] Multi-task loss
 
 
 ## 0. 符号定义
@@ -132,3 +130,4 @@ CVPR2021
   从数据集中提取全部的关系词，并选择其中最常见的$C_r$种关系组成关系集合$R = \{0,1,2,...,C_r\}$，对fine阶段经过图网络传递信息后的节点特征向量，经过全连接层预测词关系，并用交叉熵作为损失：
 
   <img src="https://raw.githubusercontent.com/PPjmchen/Notes-Imgs/main/20210502173332.jpg" alt="17-33-30" style="zoom:50%;" />
+
