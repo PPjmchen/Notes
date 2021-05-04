@@ -1,4 +1,4 @@
-YOLOv3论文精读
+# YOLOv3论文精读
 
 ![](https://raw.githubusercontent.com/PPjmchen/Notes-Imgs/main/20210504115334.jpg)
 
@@ -86,8 +86,8 @@ YOLOv3使用MSE来作边框回归的loss，单个特征点的损失使用简单�
 
 Darknet-53精度与ResNet-152相当，且速度超过极多，能够达到实时检测。
 
-<img src="/var/folders/2c/1pbc_qsd1bnf381d4g97w51m0000gp/T/com.monosnap.monosnap/19-44-31.jpg" alt="19-44-31" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/PPjmchen/Notes-Imgs/main/20210504203520.jpg" alt="19-44-31" style="zoom:50%;" />
 
 
 
-<img src="/var/folders/2c/1pbc_qsd1bnf381d4g97w51m0000gp/T/com.monosnap.monosnap/19-46-14.jpg" alt="19-46-14" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/PPjmchen/Notes-Imgs/main/20210504203524.jpg" alt="19-46-14" style="zoom:50%;" />
